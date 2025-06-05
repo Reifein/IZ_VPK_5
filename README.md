@@ -42,6 +42,8 @@
 
 **Высокоуровневая архитектура**
 
-![image](https://github.com/user-attachments/assets/ebe36b85-9d8a-4e66-99ab-40c8a61cb8f4)
+![image](https://github.com/user-attachments/assets/4d9f7eab-ef5d-47f8-9658-d329b0682d7e)
 
+**Расширенные диаграммы функциональных сценариев**
 
+![image](https://github.com/user-attachments/assets/7d57cd2a-cab4-492f-afb8-7384799433d2)
