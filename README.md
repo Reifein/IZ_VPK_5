@@ -72,4 +72,11 @@
 
 **Негативные сценарии Негативный**
 
+Подмена транзакций
+
 ![image](https://github.com/user-attachments/assets/c6193f13-a939-4f8b-a493-24868588fc48)
+
+DDOS-атака
+
+![image](https://github.com/user-attachments/assets/1ea8b851-9020-41f8-b84c-0f1d9ea9397e)
+
