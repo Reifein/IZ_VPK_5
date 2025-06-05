@@ -36,3 +36,7 @@
 
 ![image](https://github.com/user-attachments/assets/da539122-1276-45b0-bfa8-a274f6ceb7bc)
 
+**Основные функциональные сценарии**
+
+![image](https://github.com/user-attachments/assets/f7b24a84-f543-4474-afab-2f48b4d7ba60)
+
