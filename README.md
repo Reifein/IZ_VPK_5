@@ -34,9 +34,14 @@
 
 **Контекст**
 
-![image](https://github.com/user-attachments/assets/da539122-1276-45b0-bfa8-a274f6ceb7bc)
+![image](https://github.com/user-attachments/assets/77ae25d7-1fcd-4a5d-ae5e-5030a3028952)
 
 **Основные функциональные сценарии**
 
 ![image](https://github.com/user-attachments/assets/f7b24a84-f543-4474-afab-2f48b4d7ba60)
+
+**Высокоуровневая архитектура**
+
+![image](https://github.com/user-attachments/assets/ebe36b85-9d8a-4e66-99ab-40c8a61cb8f4)
+
 
